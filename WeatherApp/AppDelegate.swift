@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  WeatherApp
 //
-//  Created by Rakshith Nandish on 14/01/20.
+//  Created by Nikhil Aggarwal on 14/01/20.
 //  Copyright © 2020 Nikhil Aggarwal. All rights reserved.
 //
 
